@@ -1,21 +1,52 @@
-#Title
-Power BI Activity & Conversion Dashboard
+# 📊 Power BI Activity & Conversion Dashboard
 
-#Description
-This project analyzes employee activities and conversion performance using Power BI.
+## 📌 Description
 
-#Features
-1)Activity tracking
-2)Conversion analysis
-3)KPI dashboards
-4)Service line insights
+This project analyzes employee activities and conversion performance using Power BI. It provides insights into productivity, service line performance, and overall efficiency.
 
-#Tools Used:
-1)Power BI
-2)DAX
-3)Data Modeling
-4)SQL
+## 🚀Features
 
-#Insights:
-Identified low conversion areas
-Highlighted top-performing professionals
+* Activity tracking
+* Conversion analysis
+* KPI dashboards
+* Service line insights
+
+## 🛠️ Tools Used
+
+* Power BI
+* DAX
+* Data Modeling
+* SQL
+
+## 📈 Key Insights
+
+* Identified low conversion areas
+* Highlighted top-performing professionals
+* Analyzed service line performance trends
+
+## 🖼️ Dashboard Preview
+
+### Cover Page
+
+![Cover](cover-page.png)
+
+### Employee Activity
+
+![Employee Activity](employee-activity.png)
+
+### Event Conversion
+
+![Event Conversion](event-conversion-report.png)
+
+### Gap Analysis
+
+![Gap Analysis](gaps-check-report.png)
+
+### Detailed Activity
+
+![Detailed Activity](detailed-activity.png)
+
+##  Author
+
+**Ansa Maqsood**
+Aspiring Data Analyst | Power BI | SQL | Data Visualization
